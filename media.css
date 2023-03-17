@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1150px) {
+    
+    article img{
+        block-size: 570px;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    form {
+        margin-left: 55px;
+    }
+
+    .submit {
+        width: 80%;
+    }
+}
